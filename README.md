@@ -1,3 +1,2 @@
 # jcrop - Mudah Pangkas Gambar
-Memangkap Gambar dengan PHP, berfungsi untuk memangkas gambar ke ukuran yang ringan. Cocok Untuk diterapkan di form input gambar.
-Menggunakan file js jquery-1.6.2.min.js dan jquery.Jcrop.min.js
+Memangkas gambar dengan PHP dalam format JPG ataupun PNG, berfungsi untuk memangkas gambar ke ukuran yang ringan. Cocok Untuk diterapkan di form input gambar. Baik Untuk PHP Native ataupun FrameWork. Modul ini menggunakan lampiran file js yaitu : jquery-1.6.2.min.js dan jquery.Jcrop.min.js
